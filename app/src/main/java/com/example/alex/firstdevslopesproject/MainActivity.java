@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         percentageTxt = (EditText) findViewById(R.id.percentageTxt);
         numberTxt = (EditText) findViewById(R.id.numberTxt);
 
-        //random comment
+        //Another random comment
 
         Button calcBtn = (Button) findViewById(R.id.calcBtn);
         calcBtn.setOnClickListener(new View.OnClickListener() {
